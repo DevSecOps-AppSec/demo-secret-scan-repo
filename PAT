@@ -1,2 +1,2 @@
 [default]
-PAT = {{ secret.PAT }}
+PAT = ***REMOVED***
